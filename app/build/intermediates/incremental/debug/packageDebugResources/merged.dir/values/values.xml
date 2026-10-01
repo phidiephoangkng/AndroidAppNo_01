@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidAppNo_01</string>
+    <style name="Theme.AndroidAppNo01" parent="android:Theme.Material.NoActionBar">
+    </style>
+</resources>
